@@ -3,9 +3,11 @@ import List from "./component/list/List";
 import Chat from "./component/chat/Chat";
 const App = () => {
   return (
-    <Text className='container'>
-      
-    </Text>
+    <div className='container'>
+      <Detail />
+      <List />
+      <Chat />
+    </div>
   )
 }
 
