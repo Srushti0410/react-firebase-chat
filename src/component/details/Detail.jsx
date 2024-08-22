@@ -1,5 +1,5 @@
 import "./detail.css";
-const chat = () =>{
+const Detail = () =>{
   return(
     <div className='detail'>Detail</div>
   )

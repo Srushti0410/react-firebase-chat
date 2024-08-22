@@ -1,5 +1,6 @@
-import './chat.css'
-const chat = () =>{
+import './chat.css';
+
+const Chat = () =>{
   return(
     <div className='chat'>Chat</div>
   )
